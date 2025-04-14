@@ -1,0 +1,46 @@
+# Ignore Binary and Build Folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore VS Code and Visual Studio files
+.vscode/
+*.code-workspace
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Ignore OS junk files
+.DS_Store
+Thumbs.db
+
+# Ignore Unreal Engine-specific files
+*.pdb
+*.exe
+*.dll
+*.lib
+*.app
+*.dSYM
+*.ipa
+
+# Ignore crash and log files
+*.log
+*.dmp
+
+# Ignore backup files
+*.bak
+*.tmp
+*.swp
+
+# Ignore Android/SDK junk if included
+AppData/
+
+#.uproject.saved
+#Config/DefaultEditorPerProjectUserSettings.ini
